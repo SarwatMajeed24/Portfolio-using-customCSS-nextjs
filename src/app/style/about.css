@@ -1,0 +1,20 @@
+.social-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+.icon1{
+    font-size:35px;
+    color: blue;
+    margin: 5px;
+}
+.icon2{
+    font-size:35px;
+    color: black;
+    margin: 5px;
+}
+.icon3{
+    font-size:35px;
+    color: black;
+    margin: 5px;
+}
